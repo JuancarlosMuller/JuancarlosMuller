@@ -49,7 +49,7 @@ I'm excited about new opportunities and collaborations! Feel free to contact me 
 
 ## 💬 Quote of the Day
 <p align="center">
-  <img src="https://img.shields.io/badge/Quote%20of%20the%20Day-First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.-informational">
+  <img src="https://img.shields.io/badge/First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.-informational">
 </p>
 
 Thanks for visiting my profile! 😊
