@@ -34,9 +34,11 @@ Web Application Development | Data Analysis | Project Management | Team Leadersh
 
 
 ## 📊 GitHub Stats
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light)
+</p>
 
 ## 🤝 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosmullerb/?locale=en_US)
