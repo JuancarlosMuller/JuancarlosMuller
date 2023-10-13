@@ -30,8 +30,9 @@ Welcome to my GitHub profile! I'm a professional with 11 years of experience in 
 Web Application Development | Data Analysis | Project Management | Team Leadership
 
 ## 🤝 Connect with Me!
-- LinkedIn: [Your LinkedIn](Link to your LinkedIn profile)
-- Email: [Your Email](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/juancarlosmullerb/?locale=en_US
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]juancarlos.muller.b@gmail.com
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]+56993341136
 
 ## 🚀 Let's Talk!
 I'm excited about new opportunities and collaborations! Feel free to contact me if you want to discuss a project or just chat about technology.
