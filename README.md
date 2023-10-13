@@ -31,14 +31,12 @@ Web Application Development | Data Analysis | Project Management | Team Leadersh
 
 ![Dashboard](https://img.shields.io/badge/Dashboard-Google%20Colors-4285F4?style=for-the-badge)
 
-## 📈 GitHub Dashboard
-![Dashboard](https://img.shields.io/badge/Dashboard-Google%20Colors-4285F4?style=for-the-badge)
+
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light)
 
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light)
 
 ## 🤝 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosmullerb/?locale=en_US)
