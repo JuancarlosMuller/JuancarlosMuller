@@ -43,10 +43,9 @@ Web Application Development | Data Analysis | Project Management | Team Leadersh
 ## 🚀 Let's Talk!
 I'm excited about new opportunities and collaborations! Feel free to contact me if you want to discuss a project or just chat about technology.
 
+## 💬 My Philosophy
 <p align="center">
-  <div style="background-color: #f2f2f2; padding: 10px; border-radius: 10px; display: inline-block;">
-    <h3 style="font-size: 24px; margin: 0; color: #555; text-align: center;">"First, solve the problem. Then, write the code."</h3>
-  </div>
+  <p style="font-size: 24px; color: #555;">"First, solve the problem. Then, write the code."</p>
 </p>
 
 Thanks for visiting my profile! 😊
