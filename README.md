@@ -35,8 +35,8 @@ Web Application Development | Data Analysis | Project Management | Team Leadersh
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light" height="160px">
 </p>
 
 ## 🤝 Connect with Me!
