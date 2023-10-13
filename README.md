@@ -29,8 +29,15 @@ Welcome to my GitHub profile! I'm a professional with 11 years of experience in 
 ## 🌟 My Skills
 Web Application Development | Data Analysis | Project Management | Team Leadership
 
+![Dashboard](https://img.shields.io/badge/Dashboard-Google%20Colors-4285F4?style=for-the-badge)
+
+## 📈 GitHub Dashboard
+![Dashboard](https://img.shields.io/badge/Dashboard-Google%20Colors-4285F4?style=for-the-badge)
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=dark)
+
+## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=dark)
 
 ## 🤝 Connect with Me!
