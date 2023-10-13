@@ -45,7 +45,7 @@ I'm excited about new opportunities and collaborations! Feel free to contact me 
 
 ## 💬 My Philosophy
 <p align="center">
-  <p style="font-size: 24px; color: #555;">"First, solve the problem. Then, write the code."</p>
+  <p style="font-size: 70px; color: #555;">"First, solve the problem. Then, write the code."</p>
 </p>
 
 Thanks for visiting my profile! 😊
