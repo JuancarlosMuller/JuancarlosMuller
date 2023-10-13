@@ -30,11 +30,8 @@ Welcome to my GitHub profile! I'm a professional with 11 years of experience in 
 Web Application Development | Data Analysis | Project Management | Team Leadership
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light" height="160px">
-</p>
-
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuancarlosMuller&show_icons=true&count_private=true&theme=light) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuancarlosMuller&layout=compact&theme=light) |
+| --- | --- |
 ## 🤝 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancarlosmullerb/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancarlos.muller.b@gmail.com)
